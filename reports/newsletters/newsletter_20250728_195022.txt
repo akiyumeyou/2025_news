@@ -1,0 +1,84 @@
+============================================================
+AI最新情報ニュースレター
+発行日: 2025年07月28日
+対象期間: 07月21日 - 07月28日
+============================================================
+
+【今週のサマリー】
+総記事数: 29件
+高重要度記事: 0件
+高注目度記事: 0件
+
+【重要記事トップ10】
+1. LLM Embeddings Explained: A Visual and Intuitive Guide
+   カテゴリ: 一般 | ソース: Hacker News
+   重要度: 0.33 | 注目度: 0.43
+   リンク: https://huggingface.co/spaces/hesamation/primer-llm-embedding
+
+2. Enough AI copilots, we need AI HUDs
+   カテゴリ: 一般 | ソース: Hacker News
+   重要度: 0.33 | 注目度: 0.43
+   リンク: https://www.geoffreylitt.com/2025/07/27/enough-ai-copilots-we-need-ai-huds
+
+3. How to Make Websites That Will Require Lots of Your Time and Energy
+   カテゴリ: 一般 | ソース: Hacker News
+   重要度: 0.30 | 注目度: 0.42
+   リンク: https://blog.jim-nielsen.com/2025/how-to-make-websites-that-require-lots-of-time-and-energy/
+
+4. SIMD Within a Register: How I Doubled Hash Table Lookup Performance
+   カテゴリ: 一般 | ソース: Hacker News
+   重要度: 0.30 | 注目度: 0.42
+   リンク: https://maltsev.space/blog/012-simd-within-a-register-how-i-doubled-hash-table-lookup-performance
+
+5. Performance and telemetry analysis of Trae IDE, ByteDance's VSCode fork
+   カテゴリ: 一般 | ソース: Hacker News
+   重要度: 0.30 | 注目度: 0.42
+   リンク: https://github.com/segmentationf4u1t/trae_telemetry_research
+
+6. How to build secure and scalable remote MCP servers
+   カテゴリ: 一般 | ソース: GitHub Blog
+   重要度: 0.37 | 注目度: 0.32
+   リンク: https://github.blog/ai-and-ml/generative-ai/how-to-build-secure-and-scalable-remote-mcp-servers/
+
+7. Debugging UI with AI: GitHub Copilot agent mode meets MCP servers
+   カテゴリ: 一般 | ソース: GitHub Blog
+   重要度: 0.43 | 注目度: 0.26
+   リンク: https://github.blog/ai-and-ml/github-copilot/debugging-ui-with-ai-github-copilot-agent-mode-meets-mcp-servers/
+
+8. CoSyn: The open-source tool that’s making GPT-4V-level vision AI accessible to everyone
+   カテゴリ: 一般 | ソース: VentureBeat
+   重要度: 0.33 | 注目度: 0.35
+   リンク: https://venturebeat.com/business/cosyn-the-open-source-tool-thats-making-gpt-4v-level-vision-ai-accessible-to-everyone/
+
+9. How to streamline GitHub API calls in Azure Pipelines
+   カテゴリ: 一般 | ソース: GitHub Blog
+   重要度: 0.39 | 注目度: 0.28
+   リンク: https://github.blog/enterprise-software/ci-cd/how-to-streamline-github-api-calls-in-azure-pipelines/
+
+10. We need a European Sovereign Tech Fund
+   カテゴリ: 一般 | ソース: GitHub Blog
+   重要度: 0.40 | 注目度: 0.25
+   リンク: https://github.blog/open-source/maintainers/we-need-a-european-sovereign-tech-fund/
+
+【カテゴリ別記事】
+
+■ GENERAL
+1. LLM Embeddings Explained: A Visual and Intuitive Guide
+   重要度: low | 注目度: medium
+   ソース: Hacker News
+
+2. Enough AI copilots, we need AI HUDs
+   重要度: low | 注目度: medium
+   ソース: Hacker News
+
+3. How to Make Websites That Will Require Lots of Your Time and Energy
+   重要度: low | 注目度: medium
+   ソース: Hacker News
+
+4. SIMD Within a Register: How I Doubled Hash Table Lookup Performance
+   重要度: low | 注目度: medium
+   ソース: Hacker News
+
+5. Performance and telemetry analysis of Trae IDE, ByteDance's VSCode fork
+   重要度: low | 注目度: medium
+   ソース: Hacker News
