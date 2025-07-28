@@ -27,7 +27,8 @@ jobs:
       - name: Create deployment directory
         run: |
           mkdir -p deployment
-          cp -r reports/newsletters/* deployment/
+          cp index.html deployment/
+          cp -r reports/newsletters deployment/
           cp README.md deployment/
         
       - name: Upload artifact

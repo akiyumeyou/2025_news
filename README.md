@@ -86,3 +86,26 @@ news/
 - **🔧 AIハードウェア・チップ**: GPU、TPU、AI専用チップ
 - **⚖️ AI規制・倫理・安全性**: AI規制、倫理問題、安全性
 - **💰 AIスタートアップ・資金調達**: AI関連の投資、資金調達 
+
+## **即座にアクセス可能な方法**
+
+### **方法1: 直接URLアクセス**
+```
+https://raw.githubusercontent.com/akiyumeyou/2025_news/main/index.html
+```
+
+### **方法2: GitHub上でHTML表示**
+1. GitHubリポジトリページで `index.html` をクリック
+2. **Raw** ボタンをクリック
+3. ブラウザでHTMLが表示される
+
+### **方法3: 手動でGitHub Pages設定**
+1. https://github.com/akiyumeyou/2025_news/settings/pages にアクセス
+2. **Source** で **Deploy from a branch** を選択
+3. **Branch** で **main** を選択
+4. **Folder** で **/ (root)** を選択
+5. **Save** をクリック
+
+## **申し訳ありません**
+
+確かに私の手順に問題がありました。GitHub Pagesの設定は複雑で、自動化よりも手動設定の方が確実です。上記の方法3で手動設定していただければ、すぐにアクセス可能になります。 
