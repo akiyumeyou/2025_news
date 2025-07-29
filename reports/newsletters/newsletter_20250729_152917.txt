@@ -1,0 +1,226 @@
+============================================================
+AI最新情報ニュースレター
+発行日: 2025年07月29日
+対象期間: 07月22日 - 07月29日
+============================================================
+
+【今週のサマリー】
+総記事数: 90件
+高重要度記事: 0件
+高注目度記事: 0件
+
+【重要記事トップ10】
+1. Scaling for impact: How GitHub Copilot supercharges smallholder farmers
+   カテゴリ: 💻 プログラミングツール・開発環境 | ソース: GitHub Blog
+   重要度: 0.44 | 注目度: 0.50
+   リンク: https://github.blog/open-source/social-impact/scaling-for-impact-how-github-copilot-supercharges-smallholder-farmers/
+
+2. pygpt-net 2.5.73
+   カテゴリ: 🤖 主要LLMアップデート | ソース: Pypi.org
+   重要度: 0.40 | 注目度: 0.52
+   リンク: https://pypi.org/project/pygpt-net/2.5.73/
+
+3. Tao on “blue team” vs. “red team” LLMs
+   カテゴリ: 🤖 主要LLMアップデート | ソース: Hacker News
+   重要度: 0.35 | 注目度: 0.46
+   リンク: https://mathstodon.xyz/@tao/114915604830689046
+
+4. Let’s Learn MCP Series Recap: 8 Languages, 4 Code Bases, Full Resources
+   カテゴリ: 🏢 ビジネス・企業AI | ソース: Microsoft DevBlogs
+   重要度: 0.34 | 注目度: 0.46
+   リンク: https://devblogs.microsoft.com/blog/lets-learn-mcp-series-recap-8-languages-4-code-bases-full-resources
+
+5. How to build secure and scalable remote MCP servers
+   カテゴリ: 💻 プログラミングツール・開発環境 | ソース: GitHub Blog
+   重要度: 0.39 | 注目度: 0.34
+   リンク: https://github.blog/ai-and-ml/generative-ai/how-to-build-secure-and-scalable-remote-mcp-servers/
+
+6. Chinese startup Z.ai launches powerful open source GLM-4.5 model family with PowerPoint creation
+   カテゴリ: 💰 AIスタートアップ・資金調達 | ソース: VentureBeat
+   重要度: 0.29 | 注目度: 0.44
+   リンク: https://venturebeat.com/ai/chinese-startup-z-ai-launches-powerful-open-source-glm-4-5-model-family-with-powerpoint-creation/
+
+7. How to streamline GitHub API calls in Azure Pipelines
+   カテゴリ: 🏢 ビジネス・企業AI | ソース: GitHub Blog
+   重要度: 0.41 | 注目度: 0.32
+   リンク: https://github.blog/enterprise-software/ci-cd/how-to-streamline-github-api-calls-in-azure-pipelines/
+
+8. Harmonic, the Robinhood CEO’s AI math startup, launches an AI chatbot app
+   カテゴリ: 💰 AIスタートアップ・資金調達 | ソース: TechCrunch
+   重要度: 0.29 | 注目度: 0.44
+   リンク: https://techcrunch.com/2025/07/28/harmonic-the-robinhood-ceos-ai-math-startup-launches-an-ai-chatbot-app/
+
+9. Promising 5G Stocks Worth Watching – July 26th
+   カテゴリ: 🔧 AIハードウェア・チップ | ソース: ETF Daily News
+   重要度: 0.30 | 注目度: 0.42
+   リンク: https://www.etfdailynews.com/2025/07/28/promising-5g-stocks-worth-watching-july-26th/
+
+10. I designed my own fast game streaming video codec – PyroWave
+   カテゴリ: 🤖 主要LLMアップデート | ソース: Hacker News
+   重要度: 0.30 | 注目度: 0.42
+   リンク: https://themaister.net/blog/2025/06/16/i-designed-my-own-ridiculously-fast-game-streaming-video-codec-pyrowave/
+
+【カテゴリ別記事】
+
+■ BREAKTHROUGH
+1. Mark Cuban said the Trump administration needs to crack down on ads in AI models
+   重要度: low | 注目度: medium
+   ソース: Business Insider
+
+2. Show HN: Aiko – Easiest way to manage MCP configurations and credentials (Beta)
+   重要度: low | 注目度: low
+   ソース: Getaiko.app
+
+3. Astronomy Picture of the Day - Lightning over the Volcano of Water
+   重要度: low | 注目度: low
+   ソース: Freerepublic.com
+
+4. Google Trends API: Access Search Data for In-Depth Analysis
+   重要度: low | 注目度: low
+   ソース: Techreport.com
+
+5. Turn your weirdest ideas into actual art with Imagiyo
+   重要度: low | 注目度: low
+   ソース: New York Post
+
+
+■ LLM_CHATBOT
+1. pygpt-net 2.5.73
+   重要度: medium | 注目度: medium
+   ソース: Pypi.org
+
+2. Tao on “blue team” vs. “red team” LLMs
+   重要度: low | 注目度: medium
+   ソース: Hacker News
+
+3. I designed my own fast game streaming video codec – PyroWave
+   重要度: low | 注目度: medium
+   ソース: Hacker News
+
+4. Copyparty – Turn almost any device into a file server
+   重要度: low | 注目度: medium
+   ソース: Hacker News
+
+5. Rotring 600 Ballpoint Pen
+   重要度: low | 注目度: medium
+   ソース: Hacker News
+
+
+■ GENERATIVE_AI
+1. The 4-Year Cycle Is Dead: Matt Hougan Breaks Down The New Crypto Era
+   重要度: low | 注目度: low
+   ソース: Bitcoinist
+
+2. WATCH: Passengers exit plane via emergency slide after aborted takeoff
+   重要度: low | 注目度: low
+   ソース: ABC News
+
+3. Zombie Land Saga Anime Film Reveals Main Trailer Video
+   重要度: low | 注目度: low
+   ソース: Anime News Network
+
+4. InvokeAI 6.2.0
+   重要度: low | 注目度: low
+   ソース: Pypi.org
+
+
+■ PROGRAMMING_TOOLS
+1. Scaling for impact: How GitHub Copilot supercharges smallholder farmers
+   重要度: medium | 注目度: medium
+   ソース: GitHub Blog
+
+2. How to build secure and scalable remote MCP servers
+   重要度: low | 注目度: low
+   ソース: GitHub Blog
+
+3. Show HN: OpenCodeSpace – Disposable Containers for Claude Code in YOLO Mode
+   重要度: low | 注目度: medium
+   ソース: Hacker News
+
+4. GitHub Spark : No Code? No Problem! Build Full Stack Apps Easily
+   重要度: low | 注目度: low
+   ソース: Geeky Gadgets
+
+5. iannuttall/claude-agents: Custom subagents to use with Claude Code.
+   重要度: low | 注目度: low
+   ソース: Github.com
+
+
+■ BUSINESS_ENTERPRISE
+1. Let’s Learn MCP Series Recap: 8 Languages, 4 Code Bases, Full Resources
+   重要度: low | 注目度: medium
+   ソース: Microsoft DevBlogs
+
+2. How to streamline GitHub API calls in Azure Pipelines
+   重要度: medium | 注目度: low
+   ソース: GitHub Blog
+
+3. No more links, no more scrolling—The browser is becoming an AI Agent
+   重要度: low | 注目度: medium
+   ソース: VentureBeat
+
+4.  Nepali Youth Embrace Startup Culture!  But is Gov’t Support Failing Them?  #Nepal #Startups #Entrepreneurship
+   重要度: low | 注目度: low
+   ソース: Nep123.com
+
+5. Flexport sells former freight unicorn Convoy’s tech 2 years after buying it
+   重要度: low | 注目度: medium
+   ソース: TechCrunch
+
+
+■ HARDWARE_CHIP
+1. Promising 5G Stocks Worth Watching – July 26th
+   重要度: low | 注目度: medium
+   ソース: ETF Daily News
+
+2. Solving the inference problem for open source AI projects with GitHub Models
+   重要度: medium | 注目度: low
+   ソース: GitHub Blog
+
+3. How a Legacy Logic Choked SQL Server in a 30-Year-Old Factory
+   重要度: low | 注目度: low
+   ソース: Sqlservercentral.com
+
+4. Tesla’s $16.5 Billion Samsung Chip Deal Is The “Bare Minimum,” Says Musk As He Confirms The Affair
+   重要度: low | 注目度: low
+   ソース: Wccftech
+
+
+■ REGULATION_ETHICS
+1. China issues action plan for global AI governance
+   重要度: low | 注目度: low
+   ソース: Globalsecurity.org
+
+2. What you share with ChatGPT could be used against you
+   重要度: low | 注目度: low
+   ソース: Cointelegraph
+
+3. Fraudster Drains $3,700,000 From Investors After Posing As U.S. Department of Homeland Security Agent and Attorney
+   重要度: low | 注目度: low
+   ソース: The Daily Hodl
+
+4. Regulating online fraud: Malaysia's OSB vs China’s approach
+   重要度: low | 注目度: low
+   ソース: The Star Online
+
+
+■ STARTUPS_FUNDING
+1. Chinese startup Z.ai launches powerful open source GLM-4.5 model family with PowerPoint creation
+   重要度: low | 注目度: medium
+   ソース: VentureBeat
+
+2. Harmonic, the Robinhood CEO’s AI math startup, launches an AI chatbot app
+   重要度: low | 注目度: medium
+   ソース: TechCrunch
+
+3. AI data analyst startup Julius nabs $10M seed round
+   重要度: low | 注目度: medium
+   ソース: TechCrunch
+
+4. How E2B became essential to 88% of Fortune 100 companies and raised $21 million
+   重要度: low | 注目度: medium
+   ソース: VentureBeat
+
+5. Silicon Valley Startup Says It Can Turn Mercury Into Gold on ‘Massive Scale’
+   重要度: low | 注目度: low
+   ソース: The Daily Hodl

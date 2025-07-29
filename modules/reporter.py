@@ -60,7 +60,7 @@ class NewsletterReporter:
         }
     
     def _organize_by_category(self, articles: List[Dict[str, Any]]) -> Dict[str, List[Dict[str, Any]]]:
-        """記事をカテゴリ別に整理（網羅的に表示）"""
+        """記事をカテゴリ別に整理（網羅的に表示、重複除去、トップ10表示）"""
         from config.categories import CATEGORIES
         
         # 全カテゴリを初期化
@@ -68,11 +68,11 @@ class NewsletterReporter:
         for category_id in CATEGORIES.keys():
             categorized[category_id] = []
         
-        # 未分類カテゴリも追加
-        categorized['general'] = []
+        # 一般カテゴリは削除（すべて特定カテゴリに分類するため）
+        # categorized['general'] = []
         
         for article in articles:
-            category = article.get('category', 'general')
+            category = article.get('category', 'llm_chatbot')  # デフォルトはLLMカテゴリ
             
             # 重要度と注目度でソート用スコア
             article['combined_score'] = (
@@ -80,17 +80,47 @@ class NewsletterReporter:
                 article.get('attention_score', 0)
             )
             
-            categorized[category].append(article)
+            # カテゴリが存在する場合のみ追加
+            if category in categorized:
+                categorized[category].append(article)
         
-        # 各カテゴリ内でスコア順にソート
+        # 各カテゴリ内で重複除去とソート
         for category in categorized:
-            categorized[category].sort(
+            # タイトルベースで重複除去
+            unique_articles = self._remove_duplicates_by_title(categorized[category])
+            
+            # スコア順にソートしてトップ10を取得
+            unique_articles.sort(
                 key=lambda x: x['combined_score'], 
                 reverse=True
             )
+            categorized[category] = unique_articles[:10]  # トップ10に制限
         
-        # 空のカテゴリを削除せず、すべて表示（興味深いコンテンツを見逃さないため）
         return categorized
+    
+    def _remove_duplicates_by_title(self, articles: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+        """タイトルベースで重複記事を除去"""
+        seen_titles = set()
+        unique_articles = []
+        
+        for article in articles:
+            title = article.get('title', '')
+            if not title:  # タイトルがNoneまたは空の場合はスキップ
+                continue
+                
+            title_lower = title.lower().strip()
+            # タイトルの一部が重複している場合も検出
+            is_duplicate = False
+            for seen_title in seen_titles:
+                if (title_lower in seen_title or seen_title in title_lower) and len(title_lower) > 10:
+                    is_duplicate = True
+                    break
+            
+            if not is_duplicate:
+                seen_titles.add(title_lower)
+                unique_articles.append(article)
+        
+        return unique_articles
     
     def _extract_important_articles(self, articles: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
         """重要記事を抽出（重要度・注目度が高いもの）"""
@@ -170,17 +200,28 @@ class NewsletterReporter:
             'ai_summary': self._generate_week_summary(summary, important_articles)
         }
         
-        # カテゴリ別サマリー
+        # カテゴリ別サマリー（全カテゴリを表示、空のカテゴリも含む）
+        from config.categories import CATEGORIES
         category_summary = []
-        for category_id, category_info in summary['categories'].items():
-            if category_info['count'] > 0:
-                category_summary.append({
-                    'id': category_id,
-                    'name': category_info['name'],
-                    'count': category_info['count'],
-                    'high_importance': category_info['high_importance'],
-                    'high_attention': category_info['high_attention']
-                })
+        
+        for category_id, category_config in CATEGORIES.items():
+            category_info = summary['categories'].get(category_id, {
+                'name': category_config['name'],
+                'count': 0,
+                'high_importance': 0,
+                'high_attention': 0
+            })
+            
+            category_summary.append({
+                'id': category_id,
+                'name': category_info['name'],
+                'count': category_info['count'],
+                'high_importance': category_info['high_importance'],
+                'high_attention': category_info['high_attention'],
+                'description': category_config['description']
+            })
+        
+        # 一般カテゴリは削除（すべて特定カテゴリに分類されるため）
         
         return {
             'week_summary': week_summary,

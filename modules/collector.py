@@ -296,7 +296,10 @@ class NewsCollector:
         unique_articles = []
         
         for article in articles:
-            title_lower = article['title'].lower()
+            title = article.get('title', '')
+            if not title:  # タイトルがNoneまたは空の場合はスキップ
+                continue
+            title_lower = title.lower()
             if title_lower not in seen_titles:
                 seen_titles.add(title_lower)
                 unique_articles.append(article)

@@ -10,9 +10,7 @@ import logging
 from datetime import datetime
 import json
 import os
-from textblob import TextBlob
 import re
-from openai import OpenAI
 
 from config.categories import CATEGORIES, IMPORTANCE_CRITERIA
 
@@ -23,10 +21,7 @@ class NewsAnalyzer:
         self.categories = CATEGORIES
         self.importance_criteria = IMPORTANCE_CRITERIA
         
-        # OpenAI クライアントの設定（一時的に無効化）
-        self.openai_client = None
-        self.openai_available = False
-        logger.info("翻訳・サマリー機能は一時的に無効化されています")
+        # 翻訳・サマリー機能は削除済み
     
     def analyze_articles(self, articles: List[Dict[str, Any]]) -> Dict[str, Any]:
         """記事の分析を実行"""
@@ -41,8 +36,8 @@ class NewsAnalyzer:
         # 注目度計算
         articles_with_attention = self._calculate_attention_score(analyzed_articles)
         
-        # 日本語翻訳とサマリー生成
-        articles_with_enhancements = self._enhance_articles(articles_with_attention)
+        # 翻訳・サマリー機能は削除（必要最小限の機能のみ）
+        articles_with_enhancements = articles_with_attention
         
         # 分析結果の集計
         summary = self._create_analysis_summary(articles_with_enhancements)
@@ -60,9 +55,9 @@ class NewsAnalyzer:
         categorized_articles = []
         
         for article in articles:
-            title = article.get('title', '').lower()
-            description = article.get('description', '').lower()
-            content = f"{title} {description}"
+            title = article.get('title', '') or ''
+            description = article.get('description', '') or ''
+            content = f"{title.lower()} {description.lower()}"
             
             # 各カテゴリのキーワードとのマッチング
             best_category = None
@@ -75,15 +70,22 @@ class NewsAnalyzer:
                     best_score = score
                     best_category = category_id
             
-            # スコアが閾値を超える場合のみカテゴリを設定
-            if best_score > 0.1:  # 10%以上のマッチング
+            # スコアが閾値を超える場合のみカテゴリを設定（閾値を下げて分類精度向上）
+            if best_score > 0.05:  # 5%以上のマッチング（より多くの記事を分類）
                 article['category'] = best_category
                 article['category_score'] = best_score
                 article['category_name'] = self.categories[best_category]['name']
             else:
-                article['category'] = 'general'
-                article['category_score'] = 0
-                article['category_name'] = '一般'
+                # 一般カテゴリは削除し、最もスコアの高いカテゴリに分類
+                if best_category:
+                    article['category'] = best_category
+                    article['category_score'] = best_score
+                    article['category_name'] = self.categories[best_category]['name']
+                else:
+                    # どのカテゴリにもマッチしない場合のみ一般に分類
+                    article['category'] = 'llm_chatbot'  # デフォルトでLLMカテゴリに
+                    article['category_score'] = 0
+                    article['category_name'] = self.categories['llm_chatbot']['name']
             
             categorized_articles.append(article)
         
@@ -332,71 +334,4 @@ class NewsAnalyzer:
         
         logger.info(f"分析結果保存完了: {articles_filename}, {summary_filename}")
     
-    def _enhance_articles(self, articles: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
-        """記事の翻訳とサマリー生成による機能強化"""
-        if not self.openai_available:
-            logger.info("OpenAI API未設定のため、翻訳・サマリー機能をスキップ")
-            return articles
-        
-        enhanced_articles = []
-        
-        for article in articles:
-            enhanced_article = article.copy()
-            
-            # 日本語タイトル翻訳
-            if article.get('title'):
-                enhanced_article['title_ja'] = self._translate_to_japanese(article['title'])
-            
-            # 英語記事の場合、日本語サマリーを生成
-            if article.get('description') and len(article['description']) > 100:
-                enhanced_article['summary_ja'] = self._generate_japanese_summary(
-                    article['title'], article['description']
-                )
-            
-            enhanced_articles.append(enhanced_article)
-        
-        return enhanced_articles
-    
-    def _translate_to_japanese(self, text: str) -> str:
-        """英語テキストを日本語に翻訳"""
-        if not text or not self.openai_available:
-            return text
-        
-        try:
-            response = self.openai_client.chat.completions.create(
-                model="gpt-3.5-turbo",
-                messages=[
-                    {"role": "system", "content": "あなたは英語から日本語への翻訳専門家です。自然で読みやすい日本語に翻訳してください。"},
-                    {"role": "user", "content": f"次のテキストを日本語に翻訳してください: {text}"}
-                ],
-                max_tokens=200,
-                temperature=0.3
-            )
-            
-            return response.choices[0].message.content.strip()
-            
-        except Exception as e:
-            logger.error(f"翻訳エラー: {e}")
-            return text
-    
-    def _generate_japanese_summary(self, title: str, description: str) -> str:
-        """記事の日本語サマリーを生成"""
-        if not title or not description or not self.openai_available:
-            return ""
-        
-        try:
-            response = self.openai_client.chat.completions.create(
-                model="gpt-3.5-turbo",
-                messages=[
-                    {"role": "system", "content": "あなたはAI・テクノロジー分野の専門記者です。記事の内容を分かりやすく日本語で要約してください。"},
-                    {"role": "user", "content": f"タイトル: {title}\n内容: {description}\n\n上記の記事を150文字程度の日本語で要約してください。"}
-                ],
-                max_tokens=300,
-                temperature=0.5
-            )
-            
-            return response.choices[0].message.content.strip()
-            
-        except Exception as e:
-            logger.error(f"サマリー生成エラー: {e}")
-            return "" 
+ 
