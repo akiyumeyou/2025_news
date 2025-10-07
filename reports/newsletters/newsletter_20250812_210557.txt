@@ -1,0 +1,125 @@
+============================================================
+🤖 AI最新情報ニュースレター
+発行日: 2025年08月12日
+対象期間: 08月05日 - 08月12日
+============================================================
+
+📊【今週のサマリー】
+総記事数: 29件
+高重要度記事: 0件
+高注目度記事: 0件
+
+🔥【注目記事トップ3（詳細版）】
+■ TOP 1: Securing the supply chain at scale: Starting with 71 important open source projects
+   📖 内容: AI関連の重要なニュースです。詳細は記事をご確認ください。
+   🏷️  カテゴリ: 💰 AIスタートアップ・資金調達 | ソース: GitHub Blog
+   📊 重要度: 0.45 | 注目度: 0.46
+   🔗 リンク: https://github.blog/open-source/maintainers/securing-the-supply-chain-at-scale-starting-with-71-important-open-source-projects/
+
+■ TOP 2: Auf Wiedersehen, GitHub ♥️
+   📖 内容: AI関連の重要なニュースです。詳細は記事をご確認ください。
+   🏷️  カテゴリ: 🏢 ビジネス・企業AI | ソース: GitHub Blog
+   📊 重要度: 0.41 | 注目度: 0.45
+   🔗 リンク: https://github.blog/news-insights/company-news/goodbye-github/
+
+■ TOP 3: GPT-5 and the new era of work
+   📖 内容: AI関連の重要なニュースです。詳細は記事をご確認ください。
+   🏷️  カテゴリ: 🏢 ビジネス・企業AI | ソース: OpenAI Blog
+   📊 重要度: 0.47 | 注目度: 0.35
+   🔗 リンク: https://openai.com/index/gpt-5-new-era-of-work
+
+📋【その他の注目記事（タイトル&リンク）】
+4. How to use GitHub Copilot to level up your code reviews and pull requests [GitHub Blog]
+   🔗 https://github.blog/ai-and-ml/github-copilot/how-to-use-github-copilot-to-level-up-your-code-reviews-and-pull-requests/
+5. A fast, low-latency, open-hardware e-paper monitor and dev kit [Hacker News]
+   🔗 https://www.crowdsupply.com/modos-tech/modos-paper-monitor
+6. Wikipedia loses challenge against Online Safety Act [Hacker News]
+   🔗 https://www.bbc.com/news/articles/cjr11qqvvwlo
+7. GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models [pdf] [Hacker News]
+   🔗 https://www.arxiv.org/pdf/2508.06471
+8. Slow Ventures cuts first check from $60M creator fund into woodworking founder [TechCrunch]
+   🔗 https://techcrunch.com/2025/08/11/slow-ventures-cuts-first-check-from-60m-creator-fund-into-woodworking-founder/
+9. Pronto’s 10-minute house help pitch sparked a 3.6x valuation jump in just 90 days [TechCrunch]
+   🔗 https://techcrunch.com/2025/08/11/prontos-10-minute-house-help-pitch-sparked-a-3-6x-valuation-jump-in-just-90-days/
+10. Qodo CLI agent scores 71.2% on SWE-bench Verified [Hacker News]
+   🔗 https://www.qodo.ai/blog/qodo-command-swe-bench-verified/
+
+📂【カテゴリ別記事リスト】
+
+■ BREAKTHROUGH
+  1. GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models [pdf] [Hacker News]
+     🔗 https://www.arxiv.org/pdf/2508.06471
+  2. Medical research with GPT-5 [OpenAI Blog]
+     🔗 https://openai.com/index/gpt-5-medical-research
+  3. Introducing GPT-5 for developers [OpenAI Blog]
+     🔗 https://openai.com/index/introducing-gpt-5-for-developers
+  4. Coding and design with GPT-5 [OpenAI Blog]
+     🔗 https://openai.com/index/gpt-5-coding-design
+  5. Creative writing with GPT-5 [OpenAI Blog]
+     🔗 https://openai.com/index/gpt-5-creative-writing
+
+■ LLM CHATBOT
+  1. Qodo CLI agent scores 71.2% on SWE-bench Verified [Hacker News]
+     🔗 https://www.qodo.ai/blog/qodo-command-swe-bench-verified/
+  2. StarDict sends X11 clipboard to remote servers [Hacker News]
+     🔗 https://lwn.net/SubscriberLink/1032732/3334850da49689e1/
+  3. OpenAI is editing its GPT-5 rollout on the fly — here’s what’s changing in ChatGPT [VentureBeat]
+     🔗 https://venturebeat.com/ai/openai-is-editing-its-gpt-5-rollout-on-the-fly-heres-whats-changing-in-chatgpt/
+  4. AI isn’t stealing your job, it’s helping you find it [Stack Overflow Blog]
+     🔗 https://stackoverflow.blog/2025/08/12/ai-isn-t-stealing-your-job-it-s-helping-you-find-it/
+  5. TDK backs Ultraviolette with $21M to take India-made electric motorcycles global [TechCrunch]
+     🔗 https://techcrunch.com/2025/08/11/tdk-backs-ultraviolette-with-21m-to-take-india-made-electric-motorcycles-global/
+  6. Renewing Chat on Stack Overflow [Stack Overflow Blog]
+     🔗 https://stackoverflow.blog/2025/08/11/renewing-chat-on-stack-overflow/
+  7. AI’s promise of opportunity masks a reality of managed displacement [VentureBeat]
+     🔗 https://venturebeat.com/ai/ais-promise-of-opportunity-masks-a-reality-of-managed-displacement/
+  8. A new worst coder has entered the chat: vibe coding without code knowledge [Stack Overflow Blog]
+     🔗 https://stackoverflow.blog/2025/08/07/a-new-worst-coder-has-entered-the-chat-vibe-coding-without-code-knowledge/
+
+■ GENERATIVE AI
+  1. Seoul-based Datumo raises $15.5M to take on Scale AI, backed by Salesforce [TechCrunch]
+     🔗 https://techcrunch.com/2025/08/11/seoul-based-datumo-raises-15-5m-to-expand-llm-evaluation-challenging-scale-ai/
+
+■ PROGRAMMING TOOLS
+  1. iOS 26 beta 6 adds new ringtones, snappy app launches, and more [TechCrunch]
+     🔗 https://techcrunch.com/2025/08/11/ios-26-beta-6-adds-new-ringtones-snappy-app-launches-and-more/
+  2. Junior developers aren’t obsolete: Here’s how to thrive in the age of AI [GitHub Blog]
+     🔗 https://github.blog/ai-and-ml/generative-ai/junior-developers-arent-obsolete-heres-how-to-thrive-in-the-age-of-ai/
+  3. Python: Come for the language, stay for the community [Stack Overflow Blog]
+     🔗 https://stackoverflow.blog/2025/08/08/python-come-for-the-language-stay-for-the-community/
+
+■ BUSINESS ENTERPRISE
+  1. Auf Wiedersehen, GitHub ♥️ [GitHub Blog]
+     🔗 https://github.blog/news-insights/company-news/goodbye-github/
+  2. GPT-5 and the new era of work [OpenAI Blog]
+     🔗 https://openai.com/index/gpt-5-new-era-of-work
+  3. How to use GitHub Copilot to level up your code reviews and pull requests [GitHub Blog]
+     🔗 https://github.blog/ai-and-ml/github-copilot/how-to-use-github-copilot-to-level-up-your-code-reviews-and-pull-requests/
+  4. TD Securities taps Layer 6 and OpenAI to deliver real-time equity insights to sales and trading teams [VentureBeat]
+     🔗 https://venturebeat.com/ai/td-securities-taps-layer-6-and-openai-to-deliver-real-time-equity-insights-to-sales-and-trading-teams/
+  5. The Complete Playwright End-to-End Story, Tools, AI, and Real-World Workflows [Microsoft DevBlogs]
+     🔗 https://devblogs.microsoft.com/blog/the-complete-playwright-end-to-end-story-tools-ai-and-real-world-workflows
+  6. From terabytes to insights: Real-world AI obervability architecture [VentureBeat]
+     🔗 https://venturebeat.com/ai/from-terabytes-to-insights-real-world-ai-obervability-architecture/
+
+■ HARDWARE CHIP
+  1. A fast, low-latency, open-hardware e-paper monitor and dev kit [Hacker News]
+     🔗 https://www.crowdsupply.com/modos-tech/modos-paper-monitor
+
+■ REGULATION ETHICS
+  1. Wikipedia loses challenge against Online Safety Act [Hacker News]
+     🔗 https://www.bbc.com/news/articles/cjr11qqvvwlo
+  2. Study warns of security risks as ‘OS agents’ gain control of computers and phones [VentureBeat]
+     🔗 https://venturebeat.com/ai/study-warns-of-security-risks-as-os-agents-gain-control-of-computers-and-phones/
+
+■ STARTUPS FUNDING
+  1. Securing the supply chain at scale: Starting with 71 important open source projects [GitHub Blog]
+     🔗 https://github.blog/open-source/maintainers/securing-the-supply-chain-at-scale-starting-with-71-important-open-source-projects/
+  2. Slow Ventures cuts first check from $60M creator fund into woodworking founder [TechCrunch]
+     🔗 https://techcrunch.com/2025/08/11/slow-ventures-cuts-first-check-from-60m-creator-fund-into-woodworking-founder/
+  3. Pronto’s 10-minute house help pitch sparked a 3.6x valuation jump in just 90 days [TechCrunch]
+     🔗 https://techcrunch.com/2025/08/11/prontos-10-minute-house-help-pitch-sparked-a-3-6x-valuation-jump-in-just-90-days/
+
+============================================================
+🤖 自動生成レポート | 生成日時: 2025年08月12日
+============================================================

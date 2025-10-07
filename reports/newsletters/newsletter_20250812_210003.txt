@@ -1,0 +1,187 @@
+============================================================
+🤖 AI最新情報ニュースレター
+発行日: 2025年08月12日
+対象期間: 08月05日 - 08月12日
+============================================================
+
+📊【今週のサマリー】
+総記事数: 91件
+高重要度記事: 0件
+高注目度記事: 0件
+
+🔥【注目記事トップ3（詳細版）】
+■ TOP 1: Securing the supply chain at scale: Starting with 71 important open source projects
+   📖 内容: AI関連の重要なニュースです。詳細は記事をご確認ください。
+   🏷️  カテゴリ: 💰 AIスタートアップ・資金調達 | ソース: GitHub Blog
+   📊 重要度: 0.45 | 注目度: 0.46
+   🔗 リンク: https://github.blog/open-source/maintainers/securing-the-supply-chain-at-scale-starting-with-71-important-open-source-projects/
+
+■ TOP 2: Auf Wiedersehen, GitHub ♥️
+   📖 内容: AI関連の重要なニュースです。詳細は記事をご確認ください。
+   🏷️  カテゴリ: 🏢 ビジネス・企業AI | ソース: GitHub Blog
+   📊 重要度: 0.41 | 注目度: 0.45
+   🔗 リンク: https://github.blog/news-insights/company-news/goodbye-github/
+
+■ TOP 3: GPT-5 and the new era of work
+   📖 内容: AI関連の重要なニュースです。詳細は記事をご確認ください。
+   🏷️  カテゴリ: 🏢 ビジネス・企業AI | ソース: OpenAI Blog
+   📊 重要度: 0.47 | 注目度: 0.35
+   🔗 リンク: https://openai.com/index/gpt-5-new-era-of-work
+
+📋【その他の注目記事（タイトル&リンク）】
+4. How to use GitHub Copilot to level up your code reviews and pull requests [GitHub Blog]
+   🔗 https://github.blog/ai-and-ml/github-copilot/how-to-use-github-copilot-to-level-up-your-code-reviews-and-pull-requests/
+5. A fast, low-latency, open-hardware e-paper monitor and dev kit [Hacker News]
+   🔗 https://www.crowdsupply.com/modos-tech/modos-paper-monitor
+6. Wikipedia loses challenge against Online Safety Act [Hacker News]
+   🔗 https://www.bbc.com/news/articles/cjr11qqvvwlo
+7. GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models [pdf] [Hacker News]
+   🔗 https://www.arxiv.org/pdf/2508.06471
+8. Slow Ventures cuts first check from $60M creator fund into woodworking founder [TechCrunch]
+   🔗 https://techcrunch.com/2025/08/11/slow-ventures-cuts-first-check-from-60m-creator-fund-into-woodworking-founder/
+9. Pronto’s 10-minute house help pitch sparked a 3.6x valuation jump in just 90 days [TechCrunch]
+   🔗 https://techcrunch.com/2025/08/11/prontos-10-minute-house-help-pitch-sparked-a-3-6x-valuation-jump-in-just-90-days/
+10. Energy Storage Systems Market Size Set to Hit USD 569.39 Bn by 2034 Driven by Grid Firming and Renewables [GlobeNewswire]
+   🔗 https://www.globenewswire.com/news-release/2025/08/11/3130733/0/en/Energy-Storage-Systems-Market-Size-Set-to-Hit-USD-569-39-Bn-by-2034-Driven-by-Grid-Firming-and-Renewables.html
+
+📂【カテゴリ別記事リスト】
+
+■ BREAKTHROUGH
+  1. GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models [pdf] [Hacker News]
+     🔗 https://www.arxiv.org/pdf/2508.06471
+  2. Medical research with GPT-5 [OpenAI Blog]
+     🔗 https://openai.com/index/gpt-5-medical-research
+  3. Introducing GPT-5 for developers [OpenAI Blog]
+     🔗 https://openai.com/index/introducing-gpt-5-for-developers
+  4. xAI’s Grok Now Lets Users Turn Any Image Into a Video [PetaPixel]
+     🔗 https://petapixel.com/2025/08/11/xais-grok-now-lets-users-turn-any-image-into-a-video/
+  5. Grok Imagine under fire for explicit Taylor Swift deepfakes: Report [The Times of India]
+     🔗 https://economictimes.indiatimes.com/tech/artificial-intelligence/grok-imagine-under-fire-for-allegedly-generating-explicit-taylor-swift-deepfakes-without-prompting-report/articleshow/123217018.cms
+  6. Coding and design with GPT-5 [OpenAI Blog]
+     🔗 https://openai.com/index/gpt-5-coding-design
+  7. Creative writing with GPT-5 [OpenAI Blog]
+     🔗 https://openai.com/index/gpt-5-creative-writing
+
+■ LLM CHATBOT
+  1. Qodo CLI agent scores 71.2% on SWE-bench Verified [Hacker News]
+     🔗 https://www.qodo.ai/blog/qodo-command-swe-bench-verified/
+  2. StarDict sends X11 clipboard to remote servers [Hacker News]
+     🔗 https://lwn.net/SubscriberLink/1032732/3334850da49689e1/
+  3. OpenAI is editing its GPT-5 rollout on the fly — here’s what’s changing in ChatGPT [VentureBeat]
+     🔗 https://venturebeat.com/ai/openai-is-editing-its-gpt-5-rollout-on-the-fly-heres-whats-changing-in-chatgpt/
+  4. AI-Driven Debugging: Using LLMs to Analyze Logs, Stacktraces, and Crash Dumps [Javacodegeeks.com]
+     🔗 https://www.javacodegeeks.com/2025/08/ai-driven-debugging-using-llms-to-analyze-logs-stacktraces-and-crash-dumps.html
+  5. 6 Surprising Ways ChatGPT 5 Can Simplify Your Daily Life [Geeky Gadgets]
+     🔗 https://www.geeky-gadgets.com/how-to-use-chatgpt-5-beginner-friendly-ai-guide/
+  6. AI isn’t stealing your job, it’s helping you find it [Stack Overflow Blog]
+     🔗 https://stackoverflow.blog/2025/08/12/ai-isn-t-stealing-your-job-it-s-helping-you-find-it/
+  7. 5 ChatGPT Agent Prompts To Save 10+ Hours A Week At Work [Forbes]
+     🔗 https://www.forbes.com/sites/carolinecastrillon/2025/08/11/5-chatgpt-agent-prompts-to-save-10-hours-a-week-at-work/
+  8. Perion Launches Performance CTV Solution Designed to Capture Share in $36B+ High-Growth Streaming Ad Market [Financial Post]
+     🔗 https://financialpost.com/pmn/business-wire-news-releases-pmn/perion-launches-performance-ctv-solution-designed-to-capture-share-in-36b-high-growth-streaming-ad-market
+  9. 5 Reasons to Use Local AI Tools Over Copilot or ChatGPT — Anyone Can Try It, so Why Wouldn't You? [Windows Central]
+     🔗 https://www.windowscentral.com/artificial-intelligence/5-reasons-to-use-local-ai-tools-over-copilot-or-chatgpt-anyone-can-try-it-so-why-wouldnt-you
+  10. Nexxen Renews and Expands its Strategic Partnership with VIDAA, with a Focus on Growing VIDAA’s North American CTV Footprint [GlobeNewswire]
+     🔗 https://www.globenewswire.com/news-release/2025/08/11/3130810/0/en/Nexxen-Renews-and-Expands-its-Strategic-Partnership-with-VIDAA-with-a-Focus-on-Growing-VIDAA-s-North-American-CTV-Footprint.html
+
+■ GENERATIVE AI
+  1. Seoul-based Datumo raises $15.5M to take on Scale AI, backed by Salesforce [TechCrunch]
+     🔗 https://techcrunch.com/2025/08/11/seoul-based-datumo-raises-15-5m-to-expand-llm-evaluation-challenging-scale-ai/
+  2. Kenya taps development banks for airport expansion after ditching Adani deal [The Times of India]
+     🔗 https://economictimes.indiatimes.com/news/international/world-news/kenya-taps-development-banks-for-airport-expansion-after-ditching-adani-deal/articleshow/123236843.cms
+  3. Kymera Therapeutics sees cash runway into 2H28 [Thefly.com]
+     🔗 https://thefly.com/permalinks/entry.php/id4180524/KYMR-Kymera-Therapeutics-sees-cash-runway-into-H
+  4. Compass Therapeutics announces anticipated cash runway into 2027 [Thefly.com]
+     🔗 https://thefly.com/permalinks/entry.php/id4180522/CMPX-Compass-Therapeutics-announces-anticipated-cash-runway-into-
+  5. L.B. Foster Announces Strong Second Quarter Results with Organic Growth and Profitability Expansion Expected to Continue Through Balance of 2025 [GlobeNewswire]
+     🔗 https://www.globenewswire.com/news-release/2025/08/11/3130802/32958/en/L-B-Foster-Announces-Strong-Second-Quarter-Results-with-Organic-Growth-and-Profitability-Expansion-Expected-to-Continue-Through-Balance-of-2025.html
+  6. AI in advertising: Dumb gets dumber... and smart, smarter [BusinessLine]
+     🔗 https://www.thehindubusinessline.com/catalyst/ai-in-advertising-dumb-gets-dumber-and-smart-smarter/article69917614.ece
+
+■ PROGRAMMING TOOLS
+  1. How to use GPT-5 in VS Code with GitHub Copilot [ZDNet]
+     🔗 https://www.zdnet.com/article/how-to-use-gpt-5-in-vs-code-with-github-copilot/
+  2. Junior developers aren’t obsolete: Here’s how to thrive in the age of AI [GitHub Blog]
+     🔗 https://github.blog/ai-and-ml/generative-ai/junior-developers-arent-obsolete-heres-how-to-thrive-in-the-age-of-ai/
+  3. iOS 26 beta 6 adds new ringtones, snappy app launches, and more [TechCrunch]
+     🔗 https://techcrunch.com/2025/08/11/ios-26-beta-6-adds-new-ringtones-snappy-app-launches-and-more/
+  4. MSSQL Extension for VS Code 1.34.0 Deepens Copilot Agent Mode, Adds Colour‑Coded Connections [InfoQ.com]
+     🔗 https://www.infoq.com/news/2025/08/mssql-vscode-copilot-color-codes/
+  5. Podcast: Continuous Deployment and Pair Programming for Lean Software Delivery Even Without Jira [InfoQ.com]
+     🔗 https://www.infoq.com/podcasts/lean-software-delivery-without-jira/
+  6. Spanish Digital Entrepreneurship Education - Sebastián Najera's YouTube Freedom System™ is Popular (TrendHunter.com) [Trendhunter.com]
+     🔗 https://www.trendhunter.com/trends/freedom-system
+  7. Altseason Still On Hold – Metrics Reveal BTC Outpaces Large, Mid, Small Caps [newsBTC]
+     🔗 http://www.newsbtc.com/altcoin/altseason-still-on-hold-metrics-reveal-btc-outpaces-large-mid-small-caps/
+  8. Reincarnated in a Mafia Dating Sim Manga Adaptation Out on August 12th [Bleeding Cool News]
+     🔗 https://bleedingcool.com/comics/reincarnated-in-a-mafia-dating-sim-manga-adaptation-out-on-august-12th/
+  9. Python Bytes: #444 Begone Python of Yore! [Pythonbytes.fm]
+     🔗 https://pythonbytes.fm/episodes/show/444/begone-python-of-yore
+  10. Python: Come for the language, stay for the community [Stack Overflow Blog]
+     🔗 https://stackoverflow.blog/2025/08/08/python-come-for-the-language-stay-for-the-community/
+
+■ BUSINESS ENTERPRISE
+  1. Auf Wiedersehen, GitHub ♥️ [GitHub Blog]
+     🔗 https://github.blog/news-insights/company-news/goodbye-github/
+  2. GPT-5 and the new era of work [OpenAI Blog]
+     🔗 https://openai.com/index/gpt-5-new-era-of-work
+  3. How to use GitHub Copilot to level up your code reviews and pull requests [GitHub Blog]
+     🔗 https://github.blog/ai-and-ml/github-copilot/how-to-use-github-copilot-to-level-up-your-code-reviews-and-pull-requests/
+  4. Presentation: Key Lessons from Shipping AI Products Beyond the Hype [InfoQ.com]
+     🔗 https://www.infoq.com/presentations/microservices-ai-systems/
+  5. TD Securities taps Layer 6 and OpenAI to deliver real-time equity insights to sales and trading teams [VentureBeat]
+     🔗 https://venturebeat.com/ai/td-securities-taps-layer-6-and-openai-to-deliver-real-time-equity-insights-to-sales-and-trading-teams/
+  6. Talk Python to Me: #515: Durable Python Execution with Temporal [Talkpython.fm]
+     🔗 https://talkpython.fm/episodes/show/515/durable-python-execution-with-temporal
+  7. Pharmacy Repackaging Systems Industry Forecast 2025-2030: Automation Trends and Regional Market Opportunities Analyzed [GlobeNewswire]
+     🔗 https://www.globenewswire.com/news-release/2025/08/11/3130822/28124/en/Pharmacy-Repackaging-Systems-Industry-Forecast-2025-2030-Automation-Trends-and-Regional-Market-Opportunities-Analyzed.html
+  8. Magna to Showcase Its Vision for Safer, Smarter, Greener Mobility at IAA Mobility 2025 [Financial Post]
+     🔗 https://financialpost.com/globe-newswire/magna-to-showcase-its-vision-for-safer-smarter-greener-mobility-at-iaa-mobility-2025
+  9. Cursor's Go-to-Market Playbook: How an AI Coding Assistant Hit $100M+ ARR [Getcassius.ai]
+     🔗 https://getcassius.ai/blogs/cursor-go-to-market-playbook-100m-arr-ai-coding-assistant
+  10. latteries added to PyPI [Pypi.org]
+     🔗 https://pypi.org/project/latteries/
+
+■ HARDWARE CHIP
+  1. A fast, low-latency, open-hardware e-paper monitor and dev kit [Hacker News]
+     🔗 https://www.crowdsupply.com/modos-tech/modos-paper-monitor
+  2. Godox KNOWLED M300R RGBWW LED Light Review [Newsshooter]
+     🔗 https://www.newsshooter.com/2025/08/11/godox-knowled-m300r-rgbww-led-light-review/
+  3. Your old GPU may not be good for gaming, but these 6 uses will give it a new lease of life [XDA Developers]
+     🔗 https://www.xda-developers.com/old-gpu-may-not-be-good-gaming-uses-new-lease-life/
+
+■ REGULATION ETHICS
+  1. Wikipedia loses challenge against Online Safety Act [Hacker News]
+     🔗 https://www.bbc.com/news/articles/cjr11qqvvwlo
+  2. ⚡ Weekly Recap: BadCam Attack, WinRAR 0-Day, EDR Killer, NVIDIA Flaws, Ransomware Attacks & More [Internet]
+     🔗 https://thehackernews.com/2025/08/weekly-recap-badcam-attack-winrar-0-day.html
+  3. Proton froze Swiss data-center spending, will ditch Switzerland if OSCPT passes [Slashdot.org]
+     🔗 https://slashdot.org/submission/17338870/proton-froze-swiss-data-center-spending-will-ditch-switzerland-if-oscpt-passes
+  4. Study warns of security risks as ‘OS agents’ gain control of computers and phones [VentureBeat]
+     🔗 https://venturebeat.com/ai/study-warns-of-security-risks-as-os-agents-gain-control-of-computers-and-phones/
+  5. Microsoft Accused of Abandoning 400 Million PCs in Windows 10 Lawsuit [Android Headlines]
+     🔗 https://www.androidheadlines.com/2025/08/microsoft-accused-of-abandoning-400-million-pcs-in-windows-10-lawsuit.html
+  6. Trump’s regulatory reset leaves crypto privacy tools like Tornado Cash in the lurch [Fortune]
+     🔗 https://fortune.com/2025/08/11/tornado-cash-trump-crypto-roman-storm-privacy-blockchain/
+
+■ AI TRENDS
+  1. Energy Storage Systems Market Size Set to Hit USD 569.39 Bn by 2034 Driven by Grid Firming and Renewables [GlobeNewswire]
+     🔗 https://www.globenewswire.com/news-release/2025/08/11/3130733/0/en/Energy-Storage-Systems-Market-Size-Set-to-Hit-USD-569-39-Bn-by-2034-Driven-by-Grid-Firming-and-Renewables.html
+  2. [Latest] Global Digital Mammography Market Size/Share Worth USD 5.32 Billion by 2034 at a 11.26% CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis) [GlobeNewswire]
+     🔗 https://www.globenewswire.com/news-release/2025/08/11/3130809/0/en/Latest-Global-Digital-Mammography-Market-Size-Share-Worth-USD-5-32-Billion-by-2034-at-a-11-26-CAGR-Custom-Market-Insights-Analysis-Outlook-Leaders-Report-Trends-Forecast-Segmentati.html
+
+■ STARTUPS FUNDING
+  1. Securing the supply chain at scale: Starting with 71 important open source projects [GitHub Blog]
+     🔗 https://github.blog/open-source/maintainers/securing-the-supply-chain-at-scale-starting-with-71-important-open-source-projects/
+  2. Slow Ventures cuts first check from $60M creator fund into woodworking founder [TechCrunch]
+     🔗 https://techcrunch.com/2025/08/11/slow-ventures-cuts-first-check-from-60m-creator-fund-into-woodworking-founder/
+  3. Pronto’s 10-minute house help pitch sparked a 3.6x valuation jump in just 90 days [TechCrunch]
+     🔗 https://techcrunch.com/2025/08/11/prontos-10-minute-house-help-pitch-sparked-a-3-6x-valuation-jump-in-just-90-days/
+  4. Data Acquisition (DAQ) System Market Opportunities and Strategies to 2034 | Enhancing Performance and Durability in Motorsports and Off-Road Applications With Enhanced DAQ System [GlobeNewswire]
+     🔗 https://www.globenewswire.com/news-release/2025/08/11/3130821/28124/en/Data-Acquisition-DAQ-System-Market-Opportunities-and-Strategies-to-2034-Enhancing-Performance-and-Durability-in-Motorsports-and-Off-Road-Applications-With-Enhanced-DAQ-System.html
+  5. Ant International signs MoU with Abu Dhabi Investment Office [Finextra]
+     🔗 https://www.finextra.com/pressarticle/106678/ant-international-signs-mou-with-abu-dhabi-investment-office
+
+============================================================
+🤖 自動生成レポート | 生成日時: 2025年08月12日
+============================================================

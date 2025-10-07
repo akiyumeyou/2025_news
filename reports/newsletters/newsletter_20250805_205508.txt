@@ -1,0 +1,246 @@
+============================================================
+AI最新情報ニュースレター
+発行日: 2025年08月05日
+対象期間: 07月29日 - 08月05日
+============================================================
+
+【今週のサマリー】
+総記事数: 90件
+高重要度記事: 0件
+高注目度記事: 0件
+
+【重要記事トップ10】
+1. Uzbekistan’s first unicorn, Uzum, leaps to a $1.5B valuation
+   カテゴリ: 💰 AIスタートアップ・資金調達 | ソース: TechCrunch
+   重要度: 0.34 | 注目度: 0.51
+   リンク: https://techcrunch.com/2025/08/05/uzbekistans-first-unicorn-uzum-leaps-to-a-1-5b-valuation/
+
+2. Automate your project with GitHub Models in Actions
+   カテゴリ: 🏢 ビジネス・企業AI | ソース: GitHub Blog
+   重要度: 0.40 | 注目度: 0.44
+   リンク: https://github.blog/ai-and-ml/generative-ai/automate-your-project-with-github-models-in-actions/
+
+3. What we’re optimizing ChatGPT for
+   カテゴリ: 🔧 AIハードウェア・チップ | ソース: OpenAI Blog
+   重要度: 0.40 | 注目度: 0.44
+   リンク: https://openai.com/index/how-we're-optimizing-chatgpt
+
+4. Monitor your security cameras with locally processed AI
+   カテゴリ: ⚖️ AI規制・倫理・安全性 | ソース: Hacker News
+   重要度: 0.32 | 注目度: 0.45
+   リンク: https://frigate.video/
+
+5. ChatGPT rockets to 700M weekly users ahead of GPT-5 launch with reasoning superpowers
+   カテゴリ: 🤖 主要LLMアップデート | ソース: VentureBeat
+   重要度: 0.33 | 注目度: 0.43
+   リンク: https://venturebeat.com/ai/chatgpt-rockets-to-700m-weekly-users-ahead-of-gpt-5-launch-with-reasoning-superpowers/
+
+6. Feature Proposal: Gemini/LLM API Integration in E-book Viewer
+   カテゴリ: 🤖 主要LLMアップデート | ソース: Mobileread.com
+   重要度: 0.32 | 注目度: 0.43
+   リンク: https://www.mobileread.com/forums/showthread.php?s=9d915ee50a4b22bad4b01ceb687b2de0&p=4528883#post4528883
+
+7. AI-powered fintech Alaan raises $48M, one of the largest Series A rounds in MENA
+   カテゴリ: 💰 AIスタートアップ・資金調達 | ソース: TechCrunch
+   重要度: 0.30 | 注目度: 0.44
+   リンク: https://techcrunch.com/2025/08/05/ai-powered-fintech-alaan-raises-48m-one-of-the-largest-series-a-rounds-in-mena/
+
+8. Onboarding your AI peer programmer: Setting up GitHub Copilot coding agent for success
+   カテゴリ: 💻 プログラミングツール・開発環境 | ソース: GitHub Blog
+   重要度: 0.45 | 注目度: 0.29
+   リンク: https://github.blog/ai-and-ml/github-copilot/onboarding-your-ai-peer-programmer-setting-up-github-copilot-coding-agent-for-success/
+
+9. Jeh Aerospace nets $11M to scale the commercial aircraft supply chain in India
+   カテゴリ: 💰 AIスタートアップ・資金調達 | ソース: TechCrunch
+   重要度: 0.27 | 注目度: 0.46
+   リンク: https://techcrunch.com/2025/08/04/jeh-aerospace-nets-11m-to-scale-the-commercial-aircraft-supply-chain-in-india/
+
+10. [Latest] Global Retail Media Networks Market Size/Share Worth USD 7.3 Billion by 2034 at a 20% CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis)
+   カテゴリ: 📊 AI業界トレンド・総括 | ソース: GlobeNewswire
+   重要度: 0.31 | 注目度: 0.41
+   リンク: https://www.globenewswire.com/news-release/2025/08/04/3126461/0/en/Latest-Global-Retail-Media-Networks-Market-Size-Share-Worth-USD-7-3-Billion-by-2034-at-a-20-CAGR-Custom-Market-Insights-Analysis-Outlook-Leaders-Report-Trends-Forecast-Segmentation.html
+
+【カテゴリ別記事】
+
+■ BREAKTHROUGH
+1. GenAI apps made $1.87bn of revenue in the first half of 2025
+   重要度: low | 注目度: low
+   ソース: Music Ally
+
+2. The innovation, leadership, and team agility inside U.S. Bank’s cloud journey
+   重要度: low | 注目度: low
+   ソース: Stack Overflow Blog
+
+
+■ LLM_CHATBOT
+1. ChatGPT rockets to 700M weekly users ahead of GPT-5 launch with reasoning superpowers
+   重要度: low | 注目度: medium
+   ソース: VentureBeat
+
+2. Feature Proposal: Gemini/LLM API Integration in E-book Viewer
+   重要度: low | 注目度: medium
+   ソース: Mobileread.com
+
+3. uBlock Origin Lite now available for Safari
+   重要度: low | 注目度: medium
+   ソース: Hacker News
+
+4. A Carnival Attraction That Saved Premature Babies (2016)
+   重要度: low | 注目度: medium
+   ソース: Hacker News
+
+5. PHP 8.5 adds pipe operator
+   重要度: low | 注目度: medium
+   ソース: Hacker News
+
+
+■ GENERATIVE_AI
+1. Show HN: Pro quality AI themed photo packs from your selfies curated by humans
+   重要度: low | 注目度: low
+   ソース: Coolphoto.ai
+
+2. Qwen-Image is a powerful, open source new AI image generator with support for embedded text in English & Chinese
+   重要度: low | 注目度: low
+   ソース: VentureBeat
+
+3. Cross-pollination as a strategic advantage for forward-thinking organizations
+   重要度: low | 注目度: low
+   ソース: Stack Overflow Blog
+
+4. bingart 1.1.2
+   重要度: low | 注目度: low
+   ソース: Pypi.org
+
+
+■ PROGRAMMING_TOOLS
+1. Onboarding your AI peer programmer: Setting up GitHub Copilot coding agent for success
+   重要度: medium | 注目度: low
+   ソース: GitHub Blog
+
+2. Show HN: I connected mediapipe Hand Landmarker with SplashCursor
+   重要度: low | 注目度: low
+   ソース: Trizuliak.com
+
+3. A practical guide on how to use the GitHub MCP server
+   重要度: medium | 注目度: low
+   ソース: GitHub Blog
+
+4. Top 5 Cryptos Poised for Explosive 100× Gains in 2025—Historical Patterns Suggest This Could Be the Perfect Entry Point
+   重要度: low | 注目度: low
+   ソース: Cryptopolitan
+
+5. Tools for AI assisted Software development
+   重要度: low | 注目度: low
+   ソース: Thoughtbot.com
+
+
+■ AI_CODING
+1. Being unambiguous in what you want: the software engineer in a vibe coding world
+   重要度: low | 注目度: medium
+   ソース: Stack Overflow Blog
+
+2. Why tomorrow’s best devs won’t just code — they’ll curate, coordinate and command AI
+   重要度: low | 注目度: low
+   ソース: VentureBeat
+
+3. Do AI coding tools help with imposter syndrome or make it worse?
+   重要度: low | 注目度: low
+   ソース: Stack Overflow Blog
+
+
+■ BUSINESS_ENTERPRISE
+1. Automate your project with GitHub Models in Actions
+   重要度: medium | 注目度: medium
+   ソース: GitHub Blog
+
+2. New Claude Code Update : Adds Ability to Assign AI Models to Your SubAgents
+   重要度: low | 注目度: medium
+   ソース: Geeky Gadgets
+
+3. The Evolution of DevOps Continues: How 2,000 Token-Per-Second AI Code Generation Changes Everything
+   重要度: low | 注目度: medium
+   ソース: DevOps.com
+
+4. Newelle, a ‘Virtual Assistant’ for GNOME, Hits Version 1.0
+   重要度: low | 注目度: low
+   ソース: Omgubuntu.co.uk
+
+5. Figma uses AI to transform digital design
+   重要度: low | 注目度: low
+   ソース: OpenAI Blog
+
+
+■ HARDWARE_CHIP
+1. What we’re optimizing ChatGPT for
+   重要度: low | 注目度: medium
+   ソース: OpenAI Blog
+
+2. AIBOMs are the new SBOMs: The missing link in AI risk management
+   重要度: low | 注目度: medium
+   ソース: Help Net Security
+
+3. Tower Semiconductor Reports 2025 Second Quarter Financial Results
+   重要度: low | 注目度: low
+   ソース: GlobeNewswire
+
+4. Myth Or Reality: Will AI Replace Computer Programmers?
+   重要度: low | 注目度: low
+   ソース: Forbes
+
+5. New vision model from Cohere runs on two GPUs, beats top-tier VLMs on visual tasks
+   重要度: low | 注目度: low
+   ソース: VentureBeat
+
+
+■ REGULATION_ETHICS
+1. Monitor your security cameras with locally processed AI
+   重要度: low | 注目度: medium
+   ソース: Hacker News
+
+2. AI Transformation and Security in Microsoft’s 2025 Announcements
+   重要度: low | 注目度: medium
+   ソース: Chrisyatessql.com
+
+3. “A Security Nightmare”: Docker Warns of Risks in MCP Toolchains
+   重要度: low | 注目度: low
+   ソース: InfoQ.com
+
+4. How Claude Code MCP Servers Can Cut Data Retrieval Costs by 85%
+   重要度: low | 注目度: low
+   ソース: Geeky Gadgets
+
+5. 113,575 Americans at Risk of Fraud After Hackers Hit Healthcare Firm, Potentially Exposing Names, Social Security Numbers, Financial Account Numbers and More
+   重要度: low | 注目度: low
+   ソース: The Daily Hodl
+
+
+■ AI_TRENDS
+1. [Latest] Global Retail Media Networks Market Size/Share Worth USD 7.3 Billion by 2034 at a 20% CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis)
+   重要度: low | 注目度: medium
+   ソース: GlobeNewswire
+
+2. AI Readiness: A CEO Mandate and Organizational Roadmap for Success
+   重要度: low | 注目度: low
+   ソース: Forbes
+
+
+■ STARTUPS_FUNDING
+1. Uzbekistan’s first unicorn, Uzum, leaps to a $1.5B valuation
+   重要度: low | 注目度: medium
+   ソース: TechCrunch
+
+2. AI-powered fintech Alaan raises $48M, one of the largest Series A rounds in MENA
+   重要度: low | 注目度: medium
+   ソース: TechCrunch
+
+3. Jeh Aerospace nets $11M to scale the commercial aircraft supply chain in India
+   重要度: low | 注目度: medium
+   ソース: TechCrunch
+
+4. Contrast Security adds new integrations to extend reach of its application security platform
+   重要度: low | 注目度: medium
+   ソース: SiliconANGLE News
+
+5. New York Man Defrauds the IRS With Stolen $810,000 Tax Refund Check In Bank Fraud and Identity Theft Scheme
+   重要度: low | 注目度: medium
+   ソース: The Daily Hodl

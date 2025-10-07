@@ -10,9 +10,10 @@
             margin: 0; 
             padding: 20px; 
             background-color: #f5f5f5; 
+            line-height: 1.6;
         }
         .container { 
-            max-width: 800px; 
+            max-width: 900px; 
             margin: 0 auto; 
             background: white; 
             padding: 30px; 
@@ -28,40 +29,54 @@
         .header h1 { 
             color: #007acc; 
             margin: 0; 
+            font-size: 2.5em;
         }
         .newsletter-item { 
-            margin-bottom: 20px; 
-            padding: 20px; 
-            border: 1px solid #e9ecef; 
-            border-radius: 8px; 
-            background: #f8f9fa; 
+            margin-bottom: 25px; 
+            padding: 25px; 
+            border: 2px solid #e9ecef; 
+            border-radius: 10px; 
+            background: linear-gradient(135deg, #f8f9fa 0%, #e3f2fd 100%);
+            transition: all 0.3s ease;
         }
         .newsletter-item:hover { 
-            background: #e3f2fd; 
+            background: linear-gradient(135deg, #e3f2fd 0%, #bbdefb 100%);
             border-color: #007acc; 
+            box-shadow: 0 4px 15px rgba(0,123,204,0.2);
+        }
+        .newsletter-item.latest {
+            border-color: #007acc;
+            border-width: 3px;
+            background: linear-gradient(135deg, #e3f2fd 0%, #bbdefb 100%);
         }
         .newsletter-item h3 { 
-            margin: 0 0 10px 0; 
+            margin: 0 0 15px 0; 
             color: #007acc; 
+            font-size: 1.4em;
         }
         .newsletter-item a { 
             color: #007acc; 
             text-decoration: none; 
+            font-weight: 600;
         }
         .newsletter-item a:hover { 
             text-decoration: underline; 
         }
         .meta { 
-            font-size: 0.9em; 
+            font-size: 0.95em; 
             color: #666; 
-            margin-top: 10px; 
+            margin-top: 15px; 
+            padding-top: 15px;
+            border-top: 1px solid #ddd;
         }
         .badge { 
             display: inline-block; 
-            padding: 4px 8px; 
-            border-radius: 12px; 
-            font-size: 0.8em; 
+            padding: 6px 12px; 
+            border-radius: 20px; 
+            font-size: 0.85em; 
+            font-weight: 600;
             margin-right: 10px; 
+            text-decoration: none !important;
         }
         .badge-html { 
             background: #28a745; 
@@ -70,6 +85,27 @@
         .badge-txt { 
             background: #007acc; 
             color: white; 
+        }
+        .latest-badge {
+            background: #dc3545;
+            color: white;
+            padding: 4px 8px;
+            border-radius: 12px;
+            font-size: 0.8em;
+            font-weight: bold;
+            display: inline-block;
+            margin-left: 10px;
+        }
+        .system-info {
+            margin-top: 40px; 
+            padding: 25px; 
+            background: linear-gradient(135deg, #e8f5e8 0%, #f0f8ff 100%);
+            border-radius: 10px;
+            border-left: 4px solid #007acc;
+        }
+        .system-info h3 {
+            color: #007acc;
+            margin-top: 0;
         }
     </style>
 </head>
@@ -80,37 +116,52 @@
             <p>生成AI分野の最新情報を自動収集・分析した週次ニュースレター</p>
         </div>
         
-        <div class="newsletter-item">
-            <h3><a href="reports/newsletters/newsletter_20250729_152917.html" target="_blank">2025年07月29日 ニュースレター（最新版）</a></h3>
-            <p>収集記事数: 90件 | 8つのカテゴリに分類 | NewsAPI対応 | 重複除去済み</p>
+        <div class="newsletter-item latest">
+            <h3>
+                <a href="reports/newsletters/newsletter_20251007_220349.html" target="_blank">2025年10月07日 ニュースレター</a>
+                <span class="latest-badge">最新</span>
+            </h3>
+            <p>AI関連の最新ニュースを重要度順に整理。トップ3記事は詳細表示、その他はタイトル・リンク形式で掲載。</p>
             <div class="meta">
-                <span class="badge badge-html">HTML版</span>
-                <a href="reports/newsletters/newsletter_20250729_152917.html" target="_blank">ブラウザで表示</a>
-                <span class="badge badge-txt">テキスト版</span>
-                <a href="reports/newsletters/newsletter_20250729_152917.txt" target="_blank">ダウンロード</a>
+                <a href="reports/newsletters/newsletter_20251007_220349.html" target="_blank" class="badge badge-html">📄 HTML版で読む</a>
+                <a href="reports/newsletters/newsletter_20251007_220349.txt" target="_blank" class="badge badge-txt">📝 テキスト版</a>
             </div>
         </div>
         
         <div class="newsletter-item">
-            <h3><a href="reports/newsletters/newsletter_20250728_195022.html" target="_blank">2025年07月28日 ニュースレター</a></h3>
-            <p>収集記事数: 29件 | 高重要度: 0件 | 高注目度: 0件</p>
+            <h3>
+                <a href="reports/newsletters/newsletter_20250930_151843.html" target="_blank">2025年09月30日 ニュースレター</a>
+                
+            </h3>
+            <p>AI関連の最新ニュースを重要度順に整理。トップ3記事は詳細表示、その他はタイトル・リンク形式で掲載。</p>
             <div class="meta">
-                <span class="badge badge-html">HTML版</span>
-                <a href="reports/newsletters/newsletter_20250728_195022.html" target="_blank">ブラウザで表示</a>
-                <span class="badge badge-txt">テキスト版</span>
-                <a href="reports/newsletters/newsletter_20250728_195022.txt" target="_blank">ダウンロード</a>
+                <a href="reports/newsletters/newsletter_20250930_151843.html" target="_blank" class="badge badge-html">📄 HTML版で読む</a>
+                <a href="reports/newsletters/newsletter_20250930_151843.txt" target="_blank" class="badge badge-txt">📝 テキスト版</a>
             </div>
         </div>
         
-        <div style="margin-top: 40px; padding: 20px; background: #e3f2fd; border-radius: 8px;">
-            <h3>📋 システム概要（2025年7月29日更新）</h3>
+        <div class="newsletter-item">
+            <h3>
+                <a href="reports/newsletters/newsletter_20250826_202028.html" target="_blank">2025年08月26日 ニュースレター</a>
+                
+            </h3>
+            <p>AI関連の最新ニュースを重要度順に整理。トップ3記事は詳細表示、その他はタイトル・リンク形式で掲載。</p>
+            <div class="meta">
+                <a href="reports/newsletters/newsletter_20250826_202028.html" target="_blank" class="badge badge-html">📄 HTML版で読む</a>
+                <a href="reports/newsletters/newsletter_20250826_202028.txt" target="_blank" class="badge badge-txt">📝 テキスト版</a>
+            </div>
+        </div>
+        
+        <div class="system-info">
+            <h3>📋 システム概要</h3>
             <ul>
-                <li><strong>収集数</strong>: 週約90件（RSS 23件、NewsAPI 74件、スクレイピング 5件）</li>
-                <li><strong>8カテゴリ</strong>: AI技術ブレークスルー、LLM、デザインAI、プログラミングツール等</li>
-                <li><strong>機能</strong>: 重複除去、カテゴリ別トップ10表示、重要度スコアリング</li>
-                <li><strong>技術</strong>: Python、シンプル設計（翻訳機能削除済み）</li>
+                <li><strong>🔍 自動収集</strong>: RSS、NewsAPI、スクレイピングによる多角的なニュース収集</li>
+                <li><strong>🏷️ AI分析</strong>: 重要度・注目度の自動評価とカテゴリ分類</li>
+                <li><strong>📊 スマート表示</strong>: トップ3記事は詳細、その他はタイトル・リンクのみの効率的な情報提供</li>
+                <li><strong>🔄 自動更新</strong>: 最新3件のニュースレターを自動表示</li>
+                <li><strong>🛠️ 技術</strong>: Python、機械学習、自然言語処理を活用した高度な分析システム</li>
             </ul>
         </div>
     </div>
 </body>
-</html> 
+</html>

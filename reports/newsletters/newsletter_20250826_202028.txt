@@ -1,0 +1,199 @@
+============================================================
+🤖 AI最新情報ニュースレター
+発行日: 2025年08月26日
+対象期間: 08月19日 - 08月26日
+============================================================
+
+📊【今週のサマリー】
+総記事数: 95件
+高重要度記事: 0件
+高注目度記事: 0件
+
+🔥【注目記事トップ3（詳細版）】
+■ TOP 1: Safeguarding VS Code against prompt injections
+   📖 内容: AI関連の重要なニュースです。詳細は記事をご確認ください。
+   🏷️  カテゴリ: 💻 プログラミングツール・開発環境 | ソース: GitHub Blog
+   📊 重要度: 0.43 | 注目度: 0.45
+   🔗 リンク: https://github.blog/security/vulnerability-research/safeguarding-vs-code-against-prompt-injections/
+
+■ TOP 2: Announcing the OpenAI Learning Accelerator
+   📖 内容: AI関連の重要なニュースです。詳細は記事をご確認ください。
+   🏷️  カテゴリ: 🔧 AIハードウェア・チップ | ソース: OpenAI Blog
+   📊 重要度: 0.40 | 注目度: 0.46
+   🔗 リンク: https://openai.com/global-affairs/learning-accelerator
+
+■ TOP 3: Fine-Tuning and Deploying GPT Models Using Hugging Face Transformers
+   📖 内容: AI関連の重要なニュースです。詳細は記事をご確認ください。
+   🏷️  カテゴリ: 🚀 AI技術ブレークスルー | ソース: Jetbrains.com
+   📊 重要度: 0.39 | 注目度: 0.47
+   🔗 リンク: https://blog.jetbrains.com/pycharm/2025/08/fine-tuning-and-deploying-gpt-models-using-hugging-face-transformers/
+
+📋【その他の注目記事（タイトル&リンク）】
+4. Building your first MCP server: How to extend AI tools with custom capabilities [GitHub Blog]
+   🔗 https://github.blog/ai-and-ml/github-copilot/building-your-first-mcp-server-how-to-extend-ai-tools-with-custom-capabilities/
+5. This website lets you blind-test GPT-5 vs. GPT-4o—and the results may surprise you [VentureBeat]
+   🔗 https://venturebeat.com/ai/this-website-lets-you-blind-test-gpt-5-vs-gpt-4o-and-the-results-may-surprise-you/
+6. Show HN: Turn Markdown into React/Svelte/Vue UI at runtime, zero build step [Hacker News]
+   🔗 https://markdown-ui.com/
+7. Svelte was built on “slinging code for the sheer love of it” [Stack Overflow Blog]
+   🔗 https://stackoverflow.blog/2025/08/26/svelte-was-built-on-slinging-code-for-the-sheer-love-of-it/
+8. Next set of VC judges locked in for Startup Battlefield 200 at TechCrunch Disrupt 2025 [TechCrunch]
+   🔗 https://techcrunch.com/2025/08/25/next-batch-of-startup-battlefield-200-judges-revealed/
+9. Oktane Preview with Harish Peri, Invisible Prompt Attacks, and the weekly news! - Harish Peri - ESW #421 [Libsyn.com]
+   🔗 https://eswvideo.libsyn.com/oktane-preview-with-harish-peri-invisible-prompt-attacks-and-the-weekly-news-harish-peri-esw-421
+10. Hamad Bin Khalifa University to Host Conference on AI Ethics [Financial Post]
+   🔗 https://financialpost.com/pmn/business-wire-news-releases-pmn/hamad-bin-khalifa-university-to-host-conference-on-ai-ethics
+
+📂【カテゴリ別記事リスト】
+
+■ BREAKTHROUGH
+  1. Fine-Tuning and Deploying GPT Models Using Hugging Face Transformers [Jetbrains.com]
+     🔗 https://blog.jetbrains.com/pycharm/2025/08/fine-tuning-and-deploying-gpt-models-using-hugging-face-transformers/
+  2. Slash AI Costs by 87% with This Simple Trick : Pre-Filtering [Geeky Gadgets]
+     🔗 https://www.geeky-gadgets.com/ai-cost-saving-techniques-2025/
+  3. Spotify launches a messaging feature in a bid to become more social [TechCrunch]
+     🔗 https://techcrunch.com/2025/08/26/spotify-launches-a-messages-feature-in-a-bid-to-become-more-social/
+  4. Scaling domain expertise in complex, regulated domains [OpenAI Blog]
+     🔗 https://openai.com/index/blue-j
+  5. Who will maintain the future? Rethinking open source leadership for a new generation [GitHub Blog]
+     🔗 https://github.blog/open-source/maintainers/who-will-maintain-the-future-rethinking-open-source-leadership-for-a-new-generation/
+  6. OneNote Tables : The Secret to Organizing Your Notes Like a Pro in 2025 [Geeky Gadgets]
+     🔗 https://www.geeky-gadgets.com/microsoft-onenote-tables-organization-guide-2025/
+  7. VanEck’s New Spot Solana ETF Filing, Leveraging JitoSOL As Backbone [newsBTC]
+     🔗 http://www.newsbtc.com/news/solana/vanecks-new-spot-solana-etf-filing-leveraging-jitosol-as-backbone/
+  8. I tried Honor's premium ultrabook, and it's a serious alternative to the MacBook Air [Creative Bloq]
+     🔗 https://www.creativebloq.com/tech/laptops/honor-magicbook-pro-14-review-this-premium-ultrabook-is-a-serious-alternative-to-the-macbook-air
+  9. Robots in the skies (and they use Transformer models) [Stack Overflow Blog]
+     🔗 https://stackoverflow.blog/2025/08/22/robots-in-the-skies-and-they-use-transformer-models/
+  10. Research roadmap update, August 2025 [Stack Overflow Blog]
+     🔗 https://stackoverflow.blog/2025/08/21/research-roadmap-update-august-2025/
+
+■ LLM CHATBOT
+  1. This website lets you blind-test GPT-5 vs. GPT-4o—and the results may surprise you [VentureBeat]
+     🔗 https://venturebeat.com/ai/this-website-lets-you-blind-test-gpt-5-vs-gpt-4o-and-the-results-may-surprise-you/
+  2. Google will allow only apps from verified developers to be installed on Android [Hacker News]
+     🔗 https://9to5google.com/2025/08/25/android-apps-developer-verification/
+  3. macOS dotfiles should not go in –/Library/Application Support [Hacker News]
+     🔗 https://becca.ooo/blog/macos-dotfiles/
+  4. A bug saved the company [Hacker News]
+     🔗 https://weblog.rogueamoeba.com/2025/08/21/when-a-bug-saved-the-company/
+  5. Dangerous Advice for Software Engineers [Hacker News]
+     🔗 https://www.seangoedecke.com/dangerous-advice/
+  6. Accelerating life sciences research [OpenAI Blog]
+     🔗 https://openai.com/index/accelerating-life-sciences-research-with-retro-biosciences
+  7. too many model context protocol servers and LLM allocations on the dance floor [Ghuntley.com]
+     🔗 https://ghuntley.com/allocations/
+  8. Strategies Shaping the $55.2 Billion Recreational Boat Market 2025-2030 - BENETEAU Launching New Boat Series; Redesigned Models to Hit the Market in Q3 2025 [GlobeNewswire]
+     🔗 https://www.globenewswire.com/news-release/2025/08/25/3138316/28124/en/Strategies-Shaping-the-55-2-Billion-Recreational-Boat-Market-2025-2030-BENETEAU-Launching-New-Boat-Series-Redesigned-Models-to-Hit-the-Market-in-Q3-2025.html
+  9. I tried ChatGPT Go, and I don’t think I can ever go back to the free version [Android Authority]
+     🔗 https://www.androidauthority.com/chatgpt-go-hands-on-3590347/
+  10. Paul Ford reviews ChatGPT 5 [Aboard.com]
+     🔗 https://aboard.com/desperately-seeking-software/
+
+■ GENERATIVE AI
+  1. Meta Partners with Midjourney to Support AI Power Across Apps [Biztoc.com]
+     🔗 https://biztoc.com/x/0f50f6c56e224227
+  2. InvokeAI 6.5.0rc1 [Pypi.org]
+     🔗 https://pypi.org/project/invokeai/6.5.0rc1/
+  3. Meta Platforms enters partnership with Midjourney [Thefly.com]
+     🔗 https://thefly.com/permalinks/entry.php/id4187751/META-Meta-Platforms-enters-partnership-with-Midjourney
+  4. Meta is partnering with Midjourney and will license its technology for ‘future models and products’ [VentureBeat]
+     🔗 https://venturebeat.com/ai/meta-is-partnering-with-midjourney-and-will-license-its-technology-for-future-models-and-products/
+  5. Learning in the flow: Unlocking employee potential through continuous learning [Stack Overflow Blog]
+     🔗 https://stackoverflow.blog/2025/08/21/learning-in-the-flow-unlocking-employee-potential-through-continuous-learning/
+
+■ PROGRAMMING TOOLS
+  1. Safeguarding VS Code against prompt injections [GitHub Blog]
+     🔗 https://github.blog/security/vulnerability-research/safeguarding-vs-code-against-prompt-injections/
+  2. Building your first MCP server: How to extend AI tools with custom capabilities [GitHub Blog]
+     🔗 https://github.blog/ai-and-ml/github-copilot/building-your-first-mcp-server-how-to-extend-ai-tools-with-custom-capabilities/
+  3. Show HN: Turn Markdown into React/Svelte/Vue UI at runtime, zero build step [Hacker News]
+     🔗 https://markdown-ui.com/
+  4. Svelte was built on “slinging code for the sheer love of it” [Stack Overflow Blog]
+     🔗 https://stackoverflow.blog/2025/08/26/svelte-was-built-on-slinging-code-for-the-sheer-love-of-it/
+  5. Coinbase CEO’s Mandate: Learn AI or Get Fired [Biztoc.com]
+     🔗 https://biztoc.com/x/42e4768b5b74c969
+  6. AI Disruption fear sparks investor scrutiny of software stocks [Bloomberg]
+     🔗 https://www.bloomberg.com/news/articles/2025-08-25/ai-disruption-fear-sparks-investor-scrutiny-of-software-stocks
+  7. I tried ManageEngine OpManager, and found it offers comprehensive network monitoring for enterprises [TechRadar]
+     🔗 https://www.techradar.com/pro/manageengine-opmanager-review
+  8. A Parent’s Case Against Phones in Schools [The Atlantic]
+     🔗 https://www.theatlantic.com/family/archive/2025/08/phone-ban-school-parents/683982/
+  9. tps-rck added to PyPI [Pypi.org]
+     🔗 https://pypi.org/project/tps-rck/
+
+■ AI CODING
+  1. Boost Claude Code’s AI Coding Efficiency with These Must-Have MCP Servers [Geeky Gadgets]
+     🔗 https://www.geeky-gadgets.com/ai-coding-efficiency-claude-code-mcp-servers/
+  2. Developers lose focus 1,200 times a day — how MCP could change that [VentureBeat]
+     🔗 https://venturebeat.com/ai/developers-lose-focus-1200-times-a-day-how-mcp-could-change-that/
+
+■ BUSINESS ENTERPRISE
+  1. Oktane Preview with Harish Peri, Invisible Prompt Attacks, and the weekly news! - Harish Peri - ESW #421 [Libsyn.com]
+     🔗 https://eswvideo.libsyn.com/oktane-preview-with-harish-peri-invisible-prompt-attacks-and-the-weekly-news-harish-peri-esw-421
+  2. Explore the best of GitHub Universe: 9 spaces built to spark creativity, connection, and joy [GitHub Blog]
+     🔗 https://github.blog/news-insights/company-news/explore-the-best-of-github-universe-9-spaces-built-to-spark-creativity-connection-and-joy/
+  3. Mixi reimagines communication with ChatGPT [OpenAI Blog]
+     🔗 https://openai.com/index/mixi
+  4. Human Resource (HR) Software Market Trends and Growth Forecast 2025-2030 - AI-Driven HR Platforms Transform Employee Experience and Workforce Management [GlobeNewswire]
+     🔗 https://www.globenewswire.com/news-release/2025/08/25/3138350/28124/en/Human-Resource-HR-Software-Market-Trends-and-Growth-Forecast-2025-2030-AI-Driven-HR-Platforms-Transform-Employee-Experience-and-Workforce-Management.html
+  5. Live Entertainment Market Insights 2025-2030 by Event Type (Concerts, Festivals, Sports), Experience Type (Hybrid, in-Person, Virtual), Venue Type, Audience Size, End User, Booking Channel and Region [GlobeNewswire]
+     🔗 https://www.globenewswire.com/news-release/2025/08/25/3138353/28124/en/Live-Entertainment-Market-Insights-2025-2030-by-Event-Type-Concerts-Festivals-Sports-Experience-Type-Hybrid-in-Person-Virtual-Venue-Type-Audience-Size-End-User-Booking-Channel-and-.html
+  6. Open Platform For Enterprise AI's GenAI Code Adds Guardrails, AMD EPYC Support [Phoronix]
+     🔗 https://www.phoronix.com/news/OPEA-1.4-Gen-AI-Released
+  7. The A.I.-Profits Drought and the Lessons of History [The New Yorker]
+     🔗 https://www.newyorker.com/news/the-financial-page/the-ai-profits-drought-and-the-lessons-of-history
+
+■ HARDWARE CHIP
+  1. Announcing the OpenAI Learning Accelerator [OpenAI Blog]
+     🔗 https://openai.com/global-affairs/learning-accelerator
+  2. How to Keep Generative AI from Crashing in Combat [War on the Rocks]
+     🔗 https://warontherocks.com/2025/08/how-to-keep-generative-ai-from-crashing-in-combat/
+  3. No PhD? No Problem: How Accessible AI Is Making Data Science Everyone’s Business [Dataversity.net]
+     🔗 https://www.dataversity.net/no-phd-no-problem-how-accessible-ai-is-making-data-science-everyones-business/
+  4. Large Cap Stocks To Consider – August 23rd [ETF Daily News]
+     🔗 https://www.etfdailynews.com/2025/08/25/large-cap-stocks-to-consider-august-23rd/
+  5. OpenAI appoints former Coursera executive Raghav Gupta as education vertical head [The Times of India]
+     🔗 https://economictimes.indiatimes.com/tech/technology/openai-appoints-former-coursera-executive-raghav-gupta-as-education-vertical-head/articleshow/123502319.cms
+  6. Digital Validation Demystified | GAMP 5 2.0 and CSA Integration Course - Master 21 CFR Part 11 Compliance for Electronic Records and Signatures (ONLINE EVENT: September 18, 2025) [GlobeNewswire]
+     🔗 https://www.globenewswire.com/news-release/2025/08/25/3138278/28124/en/Digital-Validation-Demystified-GAMP-5-2-0-and-CSA-Integration-Course-Master-21-CFR-Part-11-Compliance-for-Electronic-Records-and-Signatures-ONLINE-EVENT-September-18-2025.html
+  7. NSSCTF 4th OnePanda战队 wp - dynasty_chenzi [Cnblogs.com]
+     🔗 https://www.cnblogs.com/DSchenzi/p/19056796
+  8. The Hidden Ingredients Behind AI’s Creativity [Wired]
+     🔗 https://www.wired.com/story/researchers-uncover-hidden-ingredients-behind-ai-creativity/
+  9. OpenCUA’s open source computer-use agents rival proprietary models from OpenAI and Anthropic [VentureBeat]
+     🔗 https://venturebeat.com/ai/opencuas-open-source-computer-use-agents-rival-proprietary-models-from-openai-and-anthropic/
+  10. I've been using this Geekom mini-PC for three weeks, and it might just be the Mac mini rival Windows users have been looking for [Creative Bloq]
+     🔗 https://www.creativebloq.com/tech/computers/ive-been-using-this-geekom-mini-pc-for-three-weeks-and-it-might-just-be-the-mac-mini-rival-windows-users-have-been-looking-for
+
+■ REGULATION ETHICS
+  1. Hamad Bin Khalifa University to Host Conference on AI Ethics [Financial Post]
+     🔗 https://financialpost.com/pmn/business-wire-news-releases-pmn/hamad-bin-khalifa-university-to-host-conference-on-ai-ethics
+  2. Privacy is powering the next wave of measurement innovation [The Drum]
+     🔗 https://www.thedrum.com/opinion/2025/08/25/privacy-powering-the-next-wave-measurement-innovation
+  3. 'Dangerous': Hate-fueled activist raises alarm as Meta sets him loose on AI [Raw Story]
+     🔗 https://www.rawstory.com/raw-investigates/dangerous-lgbtq-groups-raise-alarm-as-anti-trans-activist-advises-meta-on-ai/
+  4. a16z spends $1.49M in Washington lobbying, while rivals mostly sit out [TechCrunch]
+     🔗 https://techcrunch.com/2025/08/25/a16z-spends-1-49m-in-washington-lobbying-while-rivals-mostly-sit-out/
+  5. Puncak police chief says KNKT to probe Ilaga's cargo plane fire [Antaranews.com]
+     🔗 https://en.antaranews.com/news/375485/puncak-police-chief-says-knkt-to-probe-ilagas-cargo-plane-fire
+  6. TikTok UK content moderator jobs at risk amid AI shift [Verdict]
+     🔗 https://www.verdict.co.uk/tiktok-uk-content-moderator-layoffs/
+
+■ STARTUPS FUNDING
+  1. Next set of VC judges locked in for Startup Battlefield 200 at TechCrunch Disrupt 2025 [TechCrunch]
+     🔗 https://techcrunch.com/2025/08/25/next-batch-of-startup-battlefield-200-judges-revealed/
+  2. Road to Battlefield: Central Eurasia’s largest startup competition in history sends four winners to TechCrunch Startup Battlefield [TechCrunch]
+     🔗 https://techcrunch.com/2025/08/25/road-to-battlefield-central-eurasias-largest-startup-competition-in-history-sends-four-winners-to-techcrunch-startup-battlefield/
+  3. Stephen I. Katz Early Stage Investigator Research Project Grant (R01 Clinical Trial Not Allowed) [National Institutes of Health]
+     🔗 https://grants.nih.gov/grants/guide/pa-files/PAR-25-322.html
+  4. Vibe coding is transforming software. Enterprise is the next frontier [The Next Web]
+     🔗 https://thenextweb.com/news/how-vibe-coding-will-transform-enterprise
+  5. Figma draws 'neutral' ratings as Wall Street wary of lofty valuation, rising competition [CNA]
+     🔗 https://www.channelnewsasia.com/business/figma-draws-neutral-ratings-wall-street-wary-lofty-valuation-rising-competition-5312841
+  6. Figma draws 'neutral' ratings as Wall Street flags lofty valuation, rising competition [Yahoo Entertainment]
+     🔗 https://finance.yahoo.com/news/figma-draws-neutral-ratings-wall-111421380.html
+
+============================================================
+🤖 自動生成レポート | 生成日時: 2025年08月26日
+============================================================
